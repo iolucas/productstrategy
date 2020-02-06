@@ -1,39 +1,41 @@
 # Product Strategy
 
-## Introduction to Product Management
-### What is product management?
-### Why PM is important
+## 1. Introduction to Product Management
+### 1.1. What is product management?
+### 1.2. Why PM is important
+<br>
 
-## Role of a PM
-### The Role of the PM
-### What a PM Does
-### Who PMs work with
-### Identifying Requirements
-### The Roadmap & PRD
+## 2. Role of a PM
+### 2.1. The Role of the PM
+### 2.2. What a PM Does
+### 2.3. Who PMs work with
+### 2.4. Identifying Requirements
+### 2.5. The Roadmap & PRD
+<br>
 
-## Problem and Identification
-### Identifying Opportunities
-### Understanding the Market
-### Target User
-### Total Addressable Market
-### ROI
-### Creating & Evaluating Hypotheses
-### Building a business case
+## 3. Problem and Identification
+### 3.1. Identifying Opportunities
+### 3.2. Understanding the Market
+### 3.3. Target User
+### 3.4. Total Addressable Market
+### 3.5. ROI
+### 3.6. Creating & Evaluating Hypotheses
+### 3.7. Building a business case
 
-## Vision and Strategy
-### Vision
-### Strategy
-### Business Models
-### Competitive Analysis
-### MVP
-### KPIs
+## 4. Vision and Strategy
+### 4.1. Vision
+### 4.2. Strategy
+### 4.3. Business Models
+### 4.4. Competitive Analysis
+### 4.5 MVP
+### 4.6 KPIs
 
-## Comunication Skills
-### Listening
-### Storytelling
-### Persuasive Messages
-### Presentations
-### Negotiation
+## 5. Comunication Skills
+### 5.1. Listening
+### 5.2. Storytelling
+### 5.3. Persuasive Messages
+### 5.4. Presentations
+### 5.5. Negotiation
 
 
 
