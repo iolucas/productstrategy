@@ -1,4 +1,5 @@
 # Product Strategy
+<br>
 
 ## 1. Introduction to Product Management
 ### 1.1. What is product management?
@@ -21,6 +22,7 @@
 ### 3.5. ROI
 ### 3.6. Creating & Evaluating Hypotheses
 ### 3.7. Building a business case
+<br>
 
 ## 4. Vision and Strategy
 ### 4.1. Vision
@@ -29,6 +31,7 @@
 ### 4.4. Competitive Analysis
 ### 4.5 MVP
 ### 4.6 KPIs
+<br>
 
 ## 5. Comunication Skills
 ### 5.1. Listening
@@ -36,6 +39,7 @@
 ### 5.3. Persuasive Messages
 ### 5.4. Presentations
 ### 5.5. Negotiation
+<br>
 
 
 
