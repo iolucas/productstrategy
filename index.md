@@ -1,3 +1,42 @@
+# Product Strategy
+
+## Introduction to Product Management
+### What is product management?
+### Why PM is important
+
+## Role of a PM
+### The Role of the PM
+### What a PM Does
+### Who PMs work with
+### Identifying Requirements
+### The Roadmap & PRD
+
+## Problem and Identification
+### Identifying Opportunities
+### Understanding the Market
+### Target User
+### Total Addressable Market
+### ROI
+### Creating & Evaluating Hypotheses
+### Building a business case
+
+## Vision and Strategy
+### Vision
+### Strategy
+### Business Models
+### Competitive Analysis
+### MVP
+### KPIs
+
+## Comunication Skills
+### Listening
+### Storytelling
+### Persuasive Messages
+### Presentations
+### Negotiation
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/iolucas/productstrategy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
